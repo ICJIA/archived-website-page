@@ -1,5 +1,7 @@
 # ICJIA — Archived Site Placeholder
 
+![Preview of the ICJIA archived-site placeholder page rendered at desktop width: centered ICJIA wordmark above an elevated "This site has been archived" card with a contact section, followed by a centered link to icjia.illinois.gov and a centered copyright footer, all on a dark navy background.](assets/screenshot.png)
+
 A drop-in static page for any ICJIA Netlify site that has been archived. Dark-mode, WCAG 2.1 AA verified, zero external runtime dependencies, locked-down security headers.
 
 ## Quick start
