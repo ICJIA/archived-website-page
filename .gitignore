@@ -1,0 +1,11 @@
+# build artifacts
+node_modules/
+styles.css
+
+# editor / OS
+.vscode/
+.DS_Store
+
+# misc
+.netlify/
+*.log
