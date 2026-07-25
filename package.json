@@ -11,7 +11,7 @@
     "start": "serve . -l 3000 --no-clipboard"
   },
   "devDependencies": {
-    "concurrently": "^9.1.2",
+    "concurrently": "^9.2.4",
     "serve": "^14.2.4",
     "tailwindcss": "^3.4.16"
   }
